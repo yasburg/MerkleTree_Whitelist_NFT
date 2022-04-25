@@ -2,6 +2,9 @@
 
 This is based on this article: https://medium.com/@ItsCuzzo/using-merkle-trees-for-nft-whitelists-523b58ada3f9
 
+Tutorial Javascript: https://www.youtube.com/watch?v=PekgJfLb6ak
+Tutorial Solidity: https://www.youtube.com/watch?v=67vkL8XkoJ0
+
 <hr />
 
 ## Install npm packages
@@ -22,9 +25,6 @@ to see if an address is verified in the Merkle Tree or Not.
 
 ```json
     Pass this array in for 'bytes32[] calldata _merkleProof' to whitelistMint()
-
-    👋 CHANGE SINGLE QUOTES TO DOUBLE QUOTES
-        '0Xaddr' -> "0xaddr"
 
     [
         "0x702d0f86c1baf15ac2b8aae489113b59d27419b751fbf7da0ef0bae4688abc7a",
