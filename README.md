@@ -2,7 +2,7 @@
 
 This is based on this article: https://medium.com/@ItsCuzzo/using-merkle-trees-for-nft-whitelists-523b58ada3f9
 
-Tutorial Javascript: https://www.youtube.com/watch?v=PekgJfLb6ak
+Tutorial Javascript: https://www.youtube.com/watch?v=PekgJfLb6ak <br>
 Tutorial Solidity: https://www.youtube.com/watch?v=67vkL8XkoJ0
 
 <hr />
